@@ -6,4 +6,4 @@ I have used streamlit framework to create and deploy my web application.
 
 The app has been successfully deployed on streamlit community cloud.
 
-# https://book-recommender-system-4veeqnhmrkyazqc5fxfnuj.streamlit.app/
+https://book-recommender-system-4veeqnhmrkyazqc5fxfnuj.streamlit.app/
